@@ -84,6 +84,7 @@ int main (){
 
     // Comparação dos atributos para determinar o vencedor:
 
+    printf ("Resultado do Jogo (1 = Carta 1 venceu e 0 = Carta 2 venceu): \n")
     printf ("População: %d \n", populacao1 > populacao2);
     printf ("Área: %d \n", area1 > area2);
     printf ("PIB: %d \n", pib1 > pib2);
